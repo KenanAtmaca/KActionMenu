@@ -7,7 +7,6 @@
 
 <p align="center">
   <img alt="MIT Licance" src="https://img.shields.io/github/license/KenanAtmaca/KActionMenu"/>
-  <img alt="Release" src="https://img.shields.io/github/v/release/KenanAtmaca/KActionMenu"/>
   <img alt="Pod" src="https://img.shields.io/cocoapods/p/KActionMenu"/>
   <img alt="Swift" src="https://img.shields.io/badge/Swift-4.2%2B-orange"/>
 </p>
